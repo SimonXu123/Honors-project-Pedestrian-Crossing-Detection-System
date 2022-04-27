@@ -1,4 +1,4 @@
-# Honors-project
+# Project description
 ## Project background
 
 For many people living with visual impairments or blindness, assistive navigation is essential to
