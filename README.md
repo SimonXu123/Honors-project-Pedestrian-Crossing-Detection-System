@@ -1,4 +1,4 @@
-# Honors-project-Pedestrian-Crossing-Detection-System
+# Honors-project
 ## Project background
 
 For many people living with visual impairments or blindness, assistive navigation is essential to
